@@ -1,0 +1,47 @@
+body {
+    background-color: gray;
+}
+
+header { background-color: grey
+text-align: center;
+}
+
+
+h1 {color:maroon;
+    text-align: center;
+
+}
+
+header li { color: rgba(61, 7, 7, 0.459);
+    text-align: center; 
+    display: inline;
+    padding: .5%;
+    margin: 12%;
+}
+
+li { color: black;
+    text-align: left;
+
+}
+
+section { text-align: center;
+
+}
+
+img { 
+    margin: 2em;
+    img 
+
+}
+
+footer li {
+    text-align: center;
+    display:inline;
+    margin: 20px;
+    padding: 100px;
+}
+
+footer {
+    border: black
+    margin: 15px
+}
