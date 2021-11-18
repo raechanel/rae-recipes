@@ -12,6 +12,11 @@ h1 {color:maroon;
 
 }
 
+h2 {
+    color: maroon;
+    text-align: center;
+}
+
 header li { color: rgba(61, 7, 7, 0.459);
     text-align: center; 
     display: inline;
@@ -21,7 +26,6 @@ header li { color: rgba(61, 7, 7, 0.459);
 
 li { color: black;
     text-align: left;
-
 }
 
 section { text-align: center;
@@ -35,7 +39,7 @@ img {
 }
 
 footer li {
-    text-align: center;
+            text-align: center;
     display:inline;
     margin: 20px;
     padding: 100px;
