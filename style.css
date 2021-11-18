@@ -2,8 +2,9 @@ body {
     background-color: gray;
 }
 
-header { background-color: grey
-text-align: center;
+header, footer { 
+    background-color: black
+    text-align: center;
 }
 
 
@@ -17,12 +18,15 @@ h2 {
     text-align: center;
 }
 
-header li { color: rgba(61, 7, 7, 0.459);
+header li { 
+    color: rgba(61, 7, 7, 0.459);
     text-align: center; 
     display: inline;
-    padding: .5%;
-    margin: 12%;
+    padding: 1%;
+    margin: 13%;
+    border: solid black 2px;
 }
+
 
 li { color: black;
     text-align: left;
@@ -39,13 +43,15 @@ img {
 }
 
 footer li {
-            text-align: center;
-    display:inline;
-    margin: 20px;
-    padding: 100px;
+    color: rgba(61, 7, 7, 0.459);
+    text-align: center; 
+    display: inline;
+    padding: 1%;
+    margin: 13%;
+    border: solid black 2px;
 }
 
 footer {
+    text-align: center;
     border: black
-    margin: 15px
 }
