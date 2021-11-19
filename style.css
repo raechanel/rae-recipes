@@ -2,11 +2,16 @@ body {
     background-color: gray;
 }
 
-header, footer { 
-    background-color: black
+header { 
+    background-color: black 
     text-align: center;
 }
 
+
+footer { 
+    background-color: black 
+    text-align: center;
+}
 
 h1 {color:maroon;
     text-align: center;
@@ -19,12 +24,12 @@ h2 {
 }
 
 header li { 
-    color: rgba(61, 7, 7, 0.459);
+    color: rgb(1, 20, 16);
     text-align: center; 
     display: inline;
     padding: 1%;
     margin: 13%;
-    border: solid black 2px;
+    border: solid rgb(22, 9, 9) .050em;
 }
 
 
@@ -38,17 +43,22 @@ section { text-align: center;
 
 img { 
     margin: 2em;
-    img 
 
+}
+ 
+#pasta {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 footer li {
-    color: rgba(61, 7, 7, 0.459);
+    color: rgba(0, 0, 0);
     text-align: center; 
     display: inline;
     padding: 1%;
     margin: 13%;
-    border: solid black 2px;
+    border: solid black .050em;
 }
 
 footer {
