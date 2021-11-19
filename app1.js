@@ -14,7 +14,7 @@ function askUserEmail(){
 function seafoodQuestion(){
     let exit = false;
     while (exit==false) 
-    {let anotherPicuture = prompt('Do you like seafood?');
+    {let anotherPicuture = prompt('Do you want to see a seafood picture?');
     if(anotherPicuture.toLowerCase() == "yes"){
         // <img id="shrimp" src="https://www.lifesambrosia.com/wp-content/uploads/creamy-shrimp-and-scallop-pasta-1-500x500.jpg ">
         let picURL = "https://www.lifesambrosia.com/wp-content/uploads/creamy-shrimp-and-scallop-pasta-1-500x500.jpg"
